@@ -76,3 +76,7 @@ Develop a **weather forecasting application** that provides users with accurate 
 ➡Monitor and update weather data sources for accuracy.  
 ➡Address any reported bugs promptly.  
 ➡Consider adding new features based on user feedback or emerging technologies.
+
+### Conclusion:
+
+**Agile** is well-suited for the Weather forecasting Web Application due to its adaptability, emphasis on user feedback, incremental delivery, reduced time-to-market, collaboration, risk management, and commitment to continuous improvement. These factors collectively contribute to the successful development of a responsive and user-friendly weather forecasting application.
